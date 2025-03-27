@@ -1,7 +1,5 @@
-
 import pg from "pg";
-
-export function dbConnect(props: { host: any; port: any; user: any; database: any; password: any; }) {
+export default function pgConnect(props: { host: any; port: any; user: any; database: any; password: any; }) {
     const pool = new pg.Pool({
         host: props.host || "localhost",
         port: props.port || 5432,

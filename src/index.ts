@@ -1,2 +1,2 @@
 export { greet } from './libs/greet';
-export { default as db } from './libs/pg';
+export { default as pgConnect } from './libs/pg';
