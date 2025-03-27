@@ -1,10 +1,12 @@
 {
   "name": "@p8w/p8dqr-ci",
   "version": "0.0.1",
-  "description": "P8DQR CI",
+  "description": "MIx SQL Query for data hooks with Tsup",
   "license": "MIT",
   "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e",
   "devDependencies": {
-    "typescript": "^5.8.2"
+    "tsup": "^8.4.0",
+    "typescript": "^5.8.2",
+    "vitest": "^3.0.9"
   }
 }
