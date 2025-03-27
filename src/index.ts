@@ -1,3 +1,1 @@
-export function greet(name: string) {
-    return `Hello, ${name}!`;
-}
+export { greet } from './libs/greet';

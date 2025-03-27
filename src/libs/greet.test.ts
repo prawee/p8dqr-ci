@@ -1,5 +1,5 @@
 import { expect, test } from "vitest";
-import { greet } from "./index";
+import { greet } from "./greet";
 
 test("greet function", () => {
     const name = "World";
