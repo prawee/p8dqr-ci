@@ -1,6 +1,6 @@
 {
   "name": "@p8w/p8dqr-ci",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "MIx SQL Query for data hooks with Tsup",
   "keywords": [
     "sql",
