@@ -2,6 +2,11 @@
   "name": "@p8w/p8dqr-ci",
   "version": "0.0.1",
   "description": "MIx SQL Query for data hooks with Tsup",
+  "keywords": [
+    "sql",
+    "query",
+    "postgres"
+  ],
   "scripts": {
     "build": "tsup",
     "dev": "tsup --watch",
